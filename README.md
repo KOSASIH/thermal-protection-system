@@ -2,6 +2,8 @@
 
  A comprehensive repository for designing, simulating, and analyzing thermal protection systems and heat shielding for spacecraft and rockets.
 
+This git repo is for Thermal Shield project ( Develop a lightweight, high-performance thermal protection system for SpaceX's Starship.) 
+
 # About
 
 This repository provides a collection of advanced high-tech code files with full features for thermal protection systems and heat shielding. The repository includes:
